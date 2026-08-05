@@ -4,18 +4,17 @@
 <img src="https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg" alt="Header Banner" width="100%">
 
 <h1 align="center">Hi 👋, I'm Uzma Fatema Shaikh</h1>
-<h3 align="center">A Computer Science graduate who fell in love with data — and everything it can tell us if you ask the right questions.</h3>
 
 <h3 align="center">
-I enjoy turning messy, raw datasets into something clear and useful. I like building things, debugging things (a lot), and slowly getting better at both. When I'm not working with data, I'm usually learning something new, working on a side project, or figuring out why one small fix broke three other things. Always learning, always curious — welcome to my GitHub!
+I'm a Computer Science Engineering graduate turning my curiosity for numbers into a career in Data Analytics. I like the process of taking messy, raw data and shaping it into something that actually makes sense — and makes a difference.
+This profile is where I share what I'm building, learning, and experimenting with along the way. — welcome to my GitHub!
 </h3>
 
-### 🧠 About Me
-- 🎓 B.Tech in Computer Science Engineering (2024)
-- 💼 Currently working as a **Data Analyst**
-- 🔍 Interested in Data Analytics, Machine Learning, and turning data into decisions
-- 🌱 Currently sharpening my skills in SQL, Power BI, and Deep Learning
-- 📫 Reach me at **skuzmafatema117@gmail.com**
+### 🧠 What I Work With
+- **Languages & Tools:** Python, SQL, Excel, HTML, CSS, JavaScript
+- **Data & ML:** Pandas, NumPy, scikit-learn, statsmodels, matplotlib, seaborn, TensorFlow
+- **Visualization:** Power BI, Excel Dashboards
+- **Focus Areas:** Data Cleaning & Preprocessing, EDA, Data Visualization, Linear Regression, Deep Learning basics, NLP basics
 
 ---
 
