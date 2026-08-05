@@ -10,12 +10,6 @@ I'm a Computer Science Engineering graduate turning my curiosity for numbers int
 This profile is where I share what I'm building, learning, and experimenting with along the way. — welcome to my GitHub!
 </h3>
 
-### 🧠 What I Work With
-- **Languages & Tools:** Python, SQL, Excel, HTML, CSS, JavaScript
-- **Data & ML:** Pandas, NumPy, scikit-learn, statsmodels, matplotlib, seaborn, TensorFlow
-- **Visualization:** Power BI, Excel Dashboards
-- **Focus Areas:** Data Cleaning & Preprocessing, EDA, Data Visualization, Linear Regression, Deep Learning basics, NLP basics
-
 ---
 
 ### 🛠️ Languages & Tools
@@ -34,6 +28,13 @@ This profile is where I share what I'm building, learning, and experimenting wit
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
+
+---
+
+### 🧠 What I Work With
+- **Data & ML:** Pandas, NumPy, scikit-learn, statsmodels, matplotlib, seaborn, TensorFlow
+- **Visualization:** Power BI, Excel Dashboards
+- **Focus Areas:** Data Cleaning & Preprocessing, EDA, Data Visualization, Linear Regression, Deep Learning basics, NLP basics
 
 ---
 
