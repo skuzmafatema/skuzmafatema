@@ -1,6 +1,3 @@
-
-**skuzmafatema/skuzmafatema** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <img src="https://static.vecteezy.com/system/resources/previews/001/759/768/non_2x/data-scientist-word-banner-vector.jpg" alt="Header Banner" width="100%">
 
 <h1 align="center">Hi 👋, I'm Uzma Fatema Shaikh</h1>
@@ -40,13 +37,11 @@ This profile is where I share what I'm building, learning, and experimenting wit
 
 ### 📌 Featured Projects
 
-**🚗 [Car Price Prediction Model](#)**
+**🚗 [Car Price Prediction Model](https://github.com/skuzmafatema/Used-car-price-prediction)**
 Linear regression model predicting used car prices from mileage, engine volume, brand, and body type — built on a cleaned dataset of 3,800+ listings.
 
 **📊 [Admin Analytics Dashboard](#)**
 A customized, responsive admin dashboard visualizing sales, revenue, and customer data with interactive charts and dynamic tables.
-
-*(Replace the `#` links with your actual repo URLs once uploaded)*
 
 ---
 
