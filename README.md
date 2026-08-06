@@ -40,7 +40,7 @@ This profile is where I share what I'm building, learning, and experimenting wit
 **🚗 [Used Car Price Prediction Model](https://github.com/skuzmafatema/Used-car-price-prediction)**
 Linear regression model predicting used car prices from mileage, engine volume, brand, and body type — built on a dataset of 3,800+ listings.
 
-**📊 [Admin Analytics Dashboard](#)**
+**📊 [Admin Analytics Dashboard](https://github.com/skuzmafatema/Admin-panel)**
 A customized, responsive admin dashboard visualizing sales, revenue, and customer data with interactive charts and dynamic tables.
 
 ---
